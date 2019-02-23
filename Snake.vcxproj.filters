@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Source\Main.cpp" />
+    <ClCompile Include="Source\Snake.cpp" />
+    <ClCompile Include="Source\SnakeGame.cpp" />
+    <ClCompile Include="Source\SnakeGraphics.cpp" />
+    <ClCompile Include="Source\Structures.cpp" />
+    <ClCompile Include="Source\GUI\GameResultWidget.cpp" />
+    <ClCompile Include="Source\GUI\PlayingWidget.cpp" />
+    <ClCompile Include="Source\Cell.cpp" />
+    <ClCompile Include="Source\GUI\MainMenu\ChooseDifficultWidget.cpp" />
+    <ClCompile Include="Source\GUI\MainMenu\ChooseMapWidget.cpp" />
+    <ClCompile Include="Source\GUI\MainMenu\MainMenuWidget.cpp" />
+    <ClCompile Include="Source\GUI\MapImage.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Source\Snake.h" />
+    <ClInclude Include="Source\SnakeGame.h" />
+    <ClInclude Include="Source\SnakeGraphics.h" />
+    <ClInclude Include="Source\Structures.h" />
+    <ClInclude Include="Source\GUI\Buttons.h" />
+    <ClInclude Include="Source\GUI\GameResultWidget.h" />
+    <ClInclude Include="Source\GUI\PlayingWidget.h" />
+    <ClInclude Include="Source\Cell.h" />
+    <ClInclude Include="Source\GUI\MainMenu\ChooseDifficultWidget.h" />
+    <ClInclude Include="Source\GUI\MainMenu\ChooseMapWidget.h" />
+    <ClInclude Include="Source\GUI\MainMenu\MainMenuWidget.h" />
+    <ClInclude Include="Source\GUI\MapImage.h" />
+  </ItemGroup>
+</Project>
