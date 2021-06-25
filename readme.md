@@ -2,7 +2,7 @@
 
 Remake of the legendary game "Snake" with using C++ & SFML
 
-![Preview](https://github.com/jagerwil/Snake/blob/master/main_menu.png)
+![Main Menu](https://github.com/jagerwil/Snake/blob/master/main_menu.png)
 
 ## Features:
 
@@ -16,4 +16,4 @@ Remake of the legendary game "Snake" with using C++ & SFML
 - Left/Right arrow (A/D) - select left/right map
 - Escape - return to main menu (from anywhere)
 
-![Preview](https://github.com/jagerwil/Snake/blob/master/preview.png)
+![Preview](https://github.com/jagerwil/Snake/blob/master/preview.png) 
